@@ -109,7 +109,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; Mykart software services Pvt. Ltd. </footer>
 	</div>
 
 </body>
