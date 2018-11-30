@@ -32,9 +32,9 @@
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">Fashionista</a></li>
-				<li><a href="#tabs-2">Electronics</a></li>
-				<li><a href="#tabs-3">Groceries</a></li>
+			<li><a href="#tabs-1">Jenkins</a></li>
+				<li><a href="#tabs-2">Docker</a></li>
+				<li><a href="#tabs-3">Ansible</a></li>
 				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
